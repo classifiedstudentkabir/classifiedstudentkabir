@@ -1,13 +1,45 @@
 # 👋 Hallo, I am Kabir (Kabirji Vishwakarma)!
+
 *An Android Developer passionate about Cybersecurity and Linux.*
 
-- 📱 I specialize in *Java, Python, and Kotlin*  
-- 🔐 Currently learning *Cybersecurity, Linux, and System Security*  
-- 💬 Ask me about *Android Development, Programming, and Security*  
-- 📫 How to reach me: [mylinkedinacc1@gmail.com](mailto:mylinkedinacc1@gmail.com)  
+- 🔹 I specialize in **Java, C, and C++**  
+- 🔸 Currently learning **Cybersecurity, Linux, and System Security**  
+- 🔹 Ask me about **Android Development, Programming, Security, and Web Development**  
+- 📩 How to reach me: [mylinkedincacc1@gmail.com](mailto:mylinkedincacc1@gmail.com)  
+
+---
 
 ## 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=classifiedstudentkabir&show_icons=true&theme=dark)
+  
+**Kabir's GitHub Stats**  
+
+
+---
+
+## 🛠 Tech Stack:
+
+**Languages & Skills:**  
+🔹 Java  
+🔹 C  
+🔹 C++  
+🔹 Web Development  
+
+---
+
+## 🌐 Connect With Me:
+
+<p align="center">
+  <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" /> </a>
+  <a href="#"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+</p>
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad!"*
+
+
+![image](https://github.com/user-attachments/assets/5804c450-e5f9-4362-8139-0c47afbe6b0c)
+
 
 ## 🚀 Tech Stack:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)  
