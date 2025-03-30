@@ -14,37 +14,11 @@
 **Kabir's GitHub Stats**  
 
 
----
-
-## 🛠 Tech Stack:
-
-**Languages & Skills:**  
-🔹 Java  
-🔹 C  
-🔹 C++  
-🔹 Web Development  
-
----
-
-## 🌐 Connect With Me:
-
-<p align="center">
-  <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" /> </a>
-  <a href="#"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
-</p>
-
----
-
-*"Code is like humor. When you have to explain it, it's bad!"*
-
-
-![image](https://github.com/user-attachments/assets/5804c450-e5f9-4362-8139-0c47afbe6b0c)
-
-
 ## 🚀 Tech Stack:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin)  
+![C](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  
+![C++](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  
+![WEb developer](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin)  
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)  
