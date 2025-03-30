@@ -27,4 +27,4 @@
 </p>
 
 ---
-*"Code is like humor. When you have to explain it, it’s bad!"*
+*"You are getting Distracted again. You got dreams to chase Not people to impress !"*
