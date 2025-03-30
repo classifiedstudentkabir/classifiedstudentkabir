@@ -1,13 +1,17 @@
-# 👋 Hallo, I am Kabir (Kabirji Vishwakarma)!
-*An Android Developer passionate about Cybersecurity and Linux.*
+<h1 align="center">👋 Hallo, I am Kabir (Kabirji Vishwakarma)!</h1>
+<h3 align="center">An Android Developer passionate about Cybersecurity and Linux.</h3>
 
-- 📱 I specialize in *Java, C, and C++*  
-- 🔐 Currently learning *Cybersecurity, Linux, and System Security*  
-- 💬 Ask me about *Android Development, Programming, Security, and Web Development*  
-- 📫 How to reach me: [mylinkedinacc1@gmail.com](mailto:mylinkedinacc1@gmail.com)  
+<p align="center">
+  📱 I specialize in <b>Java, C, and C++</b> <br>
+  🔐 Currently learning <b>Cybersecurity, Linux, and System Security</b> <br>
+  💬 Ask me about <b>Android Development, Programming, Security, and Web Development</b> <br>
+  📫 How to reach me: <a href="mailto:mylinkedinacc1@gmail.com">mylinkedinacc1@gmail.com</a>  
+</p>
 
-## 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=classifiedstudentkabir&show_icons=true&theme=dark)
+<h2 align="center">📊 GitHub Stats:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=classifiedstudentkabir&show_icons=true&theme=dark" />
+</p>
 
 <h2 align="center">🚀 Tech Stack:</h2>
 <p align="center">
@@ -17,8 +21,7 @@
   <img src="https://img.shields.io/badge/-Web%20Development-FFA500?style=flat-square&logo=html5" />
 </p>
 
-## 🌐 Connect With Me:
-
+<h2 align="center">🌐 Connect With Me:</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/kabirji-thedeveloper">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
@@ -28,5 +31,5 @@
   </a>
 </p>
 
----
-*"You are getting Distracted again. You got dreams to chase Not people to impress !"*
+<hr>
+<p align="center"><i>"You are getting Distracted again. You got dreams to chase Not people to impress!"</i></p>
