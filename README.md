@@ -1,9 +1,6 @@
 <!-- Header with Gradient -->
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg" alt="Live Video" width="500">
-    <br>
-    ▶️ Click to watch my live session or demo!
+  <a href="[https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.google.com/imgres?q=lagtrain%20gif&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb4%2Fa1%2F91%2Fb4a191e1d7f4d288f3b1204b159a9ff8.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Flag-train-gif-lag-train-inabakumori-discover-share-gifs--620089442454493280%2F&docid=ntK4hsdQZ6GHpM&tbnid=vQjIcu4yXxDFWM&vet=12ahUKEwivytDMq5mOAxUrh1YBHW8yK1cQM3oECBYQAA..i&w=498&h=280&hcb=2&ved=2ahUKEwivytDMq5mOAxUrh1YBHW8yK1cQM3oECBYQAA)" target="_blank">
   </a>
 </p>
 
