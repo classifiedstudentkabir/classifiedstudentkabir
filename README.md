@@ -1,6 +1,6 @@
 <!-- Header with Gradient -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b4/a1/91/b4a191e1d7f4d288f3b1204b159a9ff8.gif" alt="Thanks for visiting!" width="90%" height="250" />
+  <img src="https://i.pinimg.com/originals/b4/a1/91/b4a191e1d7f4d288f3b1204b159a9ff8.gif" alt="Thanks for visiting!" width="90%" height="220" />
 </p>
 
 
@@ -28,7 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=classifiedstudentkabir&show_icons=true&hide_border=false&bg_color=1a1a1a&title_color=ff3c3c&text_color=ffffff&icon_color=ff5c5c" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=classifiedstudentkabir&hide_border=false&background=1A1A1A&ring=FF3C3C&fire=FF3C3C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=FF5C5C&currStreakNum=FF5C5C" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=classifiedstudentkabir&layout=compact&hide_border=false&bg_color=1a1a1a&title_color=ff3c3c&text_color=ffffff" />
-  <img src="https://i.pinimg.com/originals/46/28/48/462848d3c51a843c30469c0f497b42d0.gif" alt="Part 3" width="22%"/>
+  <img src="https://i.pinimg.com/originals/46/28/48/462848d3c51a843c30469c0f497b42d0.gif" alt="Part 3" width="20%"/>
 </p>
 
 
