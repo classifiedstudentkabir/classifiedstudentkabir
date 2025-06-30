@@ -1,11 +1,12 @@
 <!-- Header with Gradient -->
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a4/d3/ce/a4d3ce7ff09e24bbc4cf265686e9becc.gif" alt="Part 1" width="25%" />
-  <img src="https://i.pinimg.com/originals/b7/86/c0/b786c00bcc3bb53fa1363cf3a84d32bb.gif" alt="Part 2" width="25%" />
-  <img src="https://i.pinimg.com/originals/b3/40/d5/b340d57f9fe275429de704dceb04937e.gif" alt="Part 3" width="25%" />
-  <img src="https://i.pinimg.com/originals/64/6f/bf/646fbf3c3028f9aebffcf7d57fc19214.gif" alt="Part 4" width="25%" />
+  <img src="https://i.pinimg.com/originals/a4/d3/ce/a4d3ce7ff09e24bbc4cf265686e9becc.gif" alt="Part 1" style="max-width: 24%; display: inline-block;" />
+  <img src="https://i.pinimg.com/originals/b7/86/c0/b786c00bcc3bb53fa1363cf3a84d32bb.gif" alt="Part 2" style="max-width: 24%; display: inline-block;" />
+  <img src="https://i.pinimg.com/originals/b3/40/d5/b340d57f9fe275429de704dceb04937e.gif" alt="Part 3" style="max-width: 24%; display: inline-block;" />
+  <img src="https://i.pinimg.com/originals/64/6f/bf/646fbf3c3028f9aebffcf7d57fc19214.gif" alt="Part 4" style="max-width: 24%; display: inline-block;" />
 </p>
+
 
 
 
