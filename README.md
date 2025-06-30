@@ -1,7 +1,9 @@
 <!-- Header with Gradient -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=👋+Hi%2C+I'm+Kabir+Vishwakarma!;Android+Developer+%7C+Cybersecurity+Learner;Java+%7C+C+%7C+C%2B%2B+%7C+Linux+Enthusiast;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="[YOUR_GIF_LINK_HERE.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Flag-train-gif-lag-train-inabakumori-discover-share-gifs--620089442454493280%2F&psig=AOvVaw33Mo5XIWuw4NFGT4NQKHTl&ust=1751379610213000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCintKumY4DFQAAAAAdAAAAABAE)" alt="Demo GIF" width="600" />
 </p>
+
+
 
 
 
