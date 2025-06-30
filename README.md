@@ -1,6 +1,6 @@
 <!-- Header with Gradient -->
 <p align="center">
-  <img src="https://raw.github.com/classifiedstudentkabir/classifiedstudentkabir/main/giphy.gif" width="600" />
+  <img src="https://raw.github.com/classifiedstudentkabir/classifiedstudentkabir/main/assets/giphy.gif" width="600" />
 </p>
 
 
