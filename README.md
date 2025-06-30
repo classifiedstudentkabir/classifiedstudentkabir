@@ -2,11 +2,8 @@
 
 
 <p align="center">
-  <img src="https://s6.ezgif.com/tmp/ezgif-691c1f312729b8.gif" alt="Thanks for visiting!" width="100%" height="220" />
-  
+  <img src="https://media4.giphy.com/media/BuU1ALMvzSSOK4sUxw/giphy.gif" width="600" />
 </p>
-
-
 
 <h1 align="center">👋 Hallo, I am Kabir (Kabirji Vishwakarma)!</h1>
 <p align="center">
