@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://shorturl.at/5REvp" alt="Thanks for visiting!" width="100%" height="220" />
+  <img src="https://s6.ezgif.com/tmp/ezgif-691c1f312729b8.gif" alt="Thanks for visiting!" width="100%" height="220" />
   
 </p>
 
