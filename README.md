@@ -1,8 +1,8 @@
 <!-- Header with Gradient -->
 <p align="center">
-  <img src="https://i.makeagif.com/media/4-16-2021/Z0PUh5.gif" width="75%" />
+  <img src="https://i.makeagif.com/media/4-16-2021/Z0PUh5.gif" width="45%" />
 </p>
-<br><h1 align="center">👋 Hallo, I am Kabir (Kabirji Vishwakarma)!</h1>
+<h1 align="center">👋 Hallo, I am Kabir (Kabirji Vishwakarma)!</h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 </p>
