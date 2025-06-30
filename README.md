@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/classifiedstudentkabir/classifiedstudentkabir/raw/main/giphy.gif" width="600" />
+  <img src="https://raw.github.com/classifiedstudentkabir/classifiedstudentkabir/main/giphy.gif" width="600" />
 </p>
 
 <h1 align="center">👋 Hallo, I am Kabir (Kabirji Vishwakarma)!</h1>
