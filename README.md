@@ -1,7 +1,12 @@
 <!-- Header with Gradient -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=👋+Hi%2C+I'm+Kabir+Vishwakarma!;Android+Developer+%7C+Cybersecurity+Learner;Java+%7C+C+%7C+C%2B%2B+%7C+Linux+Enthusiast;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg" alt="Live Video" width="500">
+    <br>
+    ▶️ Click to watch my live session or demo!
+  </a>
 </p>
+
 
 <h1 align="center">👋 Hallo, I am Kabir (Kabirji Vishwakarma)!</h1>
 <h3 align="center">An Android Developer passionate about Cybersecurity and Linux.</h3>
