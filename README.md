@@ -1,8 +1,8 @@
 <!-- Header with Gradient -->
 <p align="center">
-  <a href="[https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.google.com/imgres?q=lagtrain%20gif&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb4%2Fa1%2F91%2Fb4a191e1d7f4d288f3b1204b159a9ff8.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Flag-train-gif-lag-train-inabakumori-discover-share-gifs--620089442454493280%2F&docid=ntK4hsdQZ6GHpM&tbnid=vQjIcu4yXxDFWM&vet=12ahUKEwivytDMq5mOAxUrh1YBHW8yK1cQM3oECBYQAA..i&w=498&h=280&hcb=2&ved=2ahUKEwivytDMq5mOAxUrh1YBHW8yK1cQM3oECBYQAA)" target="_blank">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=👋+Hi%2C+I'm+Kabir+Vishwakarma!;Android+Developer+%7C+Cybersecurity+Learner;Java+%7C+C+%7C+C%2B%2B+%7C+Linux+Enthusiast;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
+
 
 
 <h1 align="center">👋 Hallo, I am Kabir (Kabirji Vishwakarma)!</h1>
