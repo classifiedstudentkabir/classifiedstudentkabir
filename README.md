@@ -6,10 +6,12 @@
   <img src="https://i.pinimg.com/originals/46/28/48/462848d3c51a843c30469c0f497b42d0.gif" alt="Part 3" width="32%"/>
 </p>
 
-<h1 align="center">👋 Hallo, I am Kabir (Kabirji Vishwakarma)!</h1>
+<h2 align="center">👋 Hallo, I am Kabir (Kabirji Vishwakarma)!</h2>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 </p>
+
 <h3 align="center">An Android Developer passionate about Cybersecurity and Linux.</h3>
 <p align="center">
   📱 I specialize in <b>Java, C, and C++</b> <br>
