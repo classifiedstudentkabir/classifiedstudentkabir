@@ -3,11 +3,7 @@
   <img src="https://i.pinimg.com/originals/b4/a1/91/b4a191e1d7f4d288f3b1204b159a9ff8.gif" alt="Thanks for visiting!" width="100%" height="400" />
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/07/c3/5b/07c35b540ac0245194b55bedd109c720.gif" alt="Part 1" width="32%"/>
-  <img src="https://i.pinimg.com/originals/a4/d3/ce/a4d3ce7ff09e24bbc4cf265686e9becc.gif" alt="Part 2" width="32%"/>
-  
-</p>
+
 
 <h1 align="center">👋 Hallo, I am Kabir (Kabirji Vishwakarma)!</h1>
 <p align="center">
@@ -54,6 +50,7 @@
 
 ## 🚀 Tech Stack:
 <p align="center">
+  <img src="https://i.pinimg.com/originals/a4/d3/ce/a4d3ce7ff09e24bbc4cf265686e9becc.gif" alt="Part 2" width="12%"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B" />
@@ -65,6 +62,9 @@
 </p>
 
 <h1 align="center"><i>"You are getting Distracted again. You got dreams to chase, not people to impress!"</i></h1>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/07/c3/5b/07c35b540ac0245194b55bedd109c720.gif" alt="Part 1" width="32%"/>
+</p>
 
 
 
