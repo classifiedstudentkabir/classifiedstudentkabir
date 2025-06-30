@@ -1,9 +1,12 @@
 <!-- Header with Gradient -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b4/a1/91/b4a191e1d7f4d288f3b1204b159a9ff8.gif" alt="Thanks for visiting!" width="100%" height="400" />
+</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/07/c3/5b/07c35b540ac0245194b55bedd109c720.gif" alt="Part 1" width="32%"/>
   <img src="https://i.pinimg.com/originals/a4/d3/ce/a4d3ce7ff09e24bbc4cf265686e9becc.gif" alt="Part 2" width="32%"/>
-  <img src="https://i.pinimg.com/originals/46/28/48/462848d3c51a843c30469c0f497b42d0.gif" alt="Part 3" width="32%"/>
+  
 </p>
 
 <h1 align="center">👋 Hallo, I am Kabir (Kabirji Vishwakarma)!</h1>
@@ -29,6 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=classifiedstudentkabir&show_icons=true&hide_border=false&bg_color=1a1a1a&title_color=ff3c3c&text_color=ffffff&icon_color=ff5c5c" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=classifiedstudentkabir&hide_border=false&background=1A1A1A&ring=FF3C3C&fire=FF3C3C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=FF5C5C&currStreakNum=FF5C5C" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=classifiedstudentkabir&layout=compact&hide_border=false&bg_color=1a1a1a&title_color=ff3c3c&text_color=ffffff" />
+  <img src="https://i.pinimg.com/originals/46/28/48/462848d3c51a843c30469c0f497b42d0.gif" alt="Part 3" width="32%"/>
 </p>
 
 
@@ -61,8 +65,6 @@
 </p>
 
 <h1 align="center"><i>"You are getting Distracted again. You got dreams to chase, not people to impress!"</i></h1>
-<p align="center">
-  <img src="https://i.pinimg.com/originals/b4/a1/91/b4a191e1d7f4d288f3b1204b159a9ff8.gif" alt="Thanks for visiting!" width="100%" height="400" />
-</p>
+
 
 
