@@ -2,8 +2,6 @@
 <p align="center">
   <img src="https://raw.github.com/classifiedstudentkabir/classifiedstudentkabir/main/assets/giphy.gif" width="600" />
 </p>
-
-
 <h1 align="center">👋 Hallo, I am Kabir (Kabirji Vishwakarma)!</h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
