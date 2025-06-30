@@ -1,6 +1,6 @@
 <!-- Header with Gradient -->
 <p align="center">
-  <img src="https://i.makeagif.com/media/4-16-2021/Z0PUh5.gif" width="45%" />
+  <img src="https://i.makeagif.com/media/4-16-2021/Z0PUh5.gif" width="1000" height="300" />
 </p>
 <h1 align="center">👋 Hallo, I am Kabir (Kabirji Vishwakarma)!</h1>
 <p align="center">
