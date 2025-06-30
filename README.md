@@ -1,7 +1,7 @@
 <!-- Header with Gradient -->
 <p align="center">
   <img src="https://i.makeagif.com/media/5-30-2016/yMYxaH.gif" width="600" />
-  <img src="https://media.tenor.com/XtMEKu_fjH4AAAAM/bye.gif" width="600" />
+  <img src="https://64.media.tumblr.com/1b36d5993b1fef62a7d3a7c249d1a45c/tumblr_nb1d2mFJ9H1qjb5vzo6_400.gifv" width="600" />
 </p>
 <h1 align="center">👋 Hallo, I am Kabir (Kabirji Vishwakarma)!</h1>
 <p align="center">
