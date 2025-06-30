@@ -1,6 +1,6 @@
 <!-- Header with Gradient -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kabirji/kabirji/main/assets/Bottom_up_Kabir.svg" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdzZzQ1bWUydG5vbWdrd2xsdGo1MHJicDBraDlhMzkwYTEwdWUxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BuU1ALMvzSSOK4sUxw/giphy.gif" />
 </p>
 
 <p align="center">
