@@ -50,7 +50,7 @@
 
 ## 🚀 Tech Stack:
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a4/d3/ce/a4d3ce7ff09e24bbc4cf265686e9becc.gif" alt="Part 2" width="12%"/>
+  <img src="https://media.tenor.com/d_2N1rihkHIAAAAj/clash-royale-emote.gif" alt="Part 2" width="12%"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" />
