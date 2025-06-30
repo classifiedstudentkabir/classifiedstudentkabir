@@ -1,6 +1,6 @@
 <!-- Header with Gradient -->
 <p align="center">
-  <img src="[YOUR_GIF_LINK_HERE.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Flag-train-gif-lag-train-inabakumori-discover-share-gifs--620089442454493280%2F&psig=AOvVaw33Mo5XIWuw4NFGT4NQKHTl&ust=1751379610213000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCintKumY4DFQAAAAAdAAAAABAE)" alt="Demo GIF" width="600" />
+  <img src="https://i.pinimg.com/originals/b4/a1/91/b4a191e1d7f4d288f3b1204b159a9ff8.gif" alt="Demo GIF" width="600" />
 </p>
 
 
