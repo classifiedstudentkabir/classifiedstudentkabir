@@ -1,7 +1,7 @@
 <!-- Header with Gradient -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/1b36d5993b1fef62a7d3a7c249d1a45c/tumblr_nb1d2mFJ9H1qjb5vzo6_400.gifv" width="55%" height="200 />
-</p>
+  <img src="https://64.media.tumblr.com/1b36d5993b1fef62a7d3a7c249d1a45c/tumblr_nb1d2mFJ9H1qjb5vzo6_400.gifv" width="85%" height="400 />
+</p><br>
 <h1 align="center">👋 Hallo, I am Kabir (Kabirji Vishwakarma)!</h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
