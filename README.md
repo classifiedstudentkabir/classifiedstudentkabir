@@ -32,7 +32,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=classifiedstudentkabir&layout=compact&hide_border=false&bg_color=1a1a1a&title_color=ff3c3c&text_color=ffffff" width="45%" />
-  <img src="https://i.pinimg.com/originals/46/28/48/462848d3c51a843c30469c0f497b42d0.gif" alt="Thank You GIF" width="45%" />
+  <img src="https://i.pinimg.com/originals/46/28/48/462848d3c51a843c30469c0f497b42d0.gif" alt="Thank You GIF" width="25%" />
 </p>
 
 
