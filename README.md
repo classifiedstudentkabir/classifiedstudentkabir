@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDg1MnRncTVpY3N3azZjemN1M2E5ajFlYndlbzBqdWttc3Q3cnpweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BuU1ALMvzSSOK4sUxw/giphy.gif" alt="Thanks for visiting!" width="100%" height="220" />
+  <iframe src="https://giphy.com/embed/BuU1ALMvzSSOK4sUxw" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/clash-clash-royale-of-clans-supercell-BuU1ALMvzSSOK4sUxw">via GIPHY</a></p>
 </p>
 
 
