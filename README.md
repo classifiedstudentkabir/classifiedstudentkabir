@@ -1,9 +1,8 @@
 <!-- Header with Gradient -->
-
-
 <p align="center">
-  <img src="https://raw.github.com/classifiedstudentkabir/classifiedstudentkabir/main/giphy.gif" width="600" />
+  <img src="https://raw.githubusercontent.com/classifiedstudentkabir/main/assets/giphy.gif" width="600" />
 </p>
+
 
 <h1 align="center">👋 Hallo, I am Kabir (Kabirji Vishwakarma)!</h1>
 <p align="center">
