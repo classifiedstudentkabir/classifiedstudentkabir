@@ -8,6 +8,9 @@
 
 <h1 align="center">👋 Hallo, I am Kabir (Kabirji Vishwakarma)!</h1>
 <h3 align="center">An Android Developer passionate about Cybersecurity and Linux.</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+</p>
 
 <p align="center">
   📱 I specialize in <b>Java, C, and C++</b> <br>
