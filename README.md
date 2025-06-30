@@ -1,7 +1,7 @@
 <!-- Header with Gradient -->
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/64/6f/bf/646fbf3c3028f9aebffcf7d57fc19214.gif" alt="Part 1" width="32%"/>
+  <img src="https://i.pinimg.com/originals/b5/e6/de/b5e6deb5d6e28061b292e238be40c352.gif" alt="Part 1" width="32%"/>
   <img src="https://i.pinimg.com/originals/a4/d3/ce/a4d3ce7ff09e24bbc4cf265686e9becc.gif" alt="Part 2" width="32%"/>
   <img src="https://i.pinimg.com/originals/46/28/48/462848d3c51a843c30469c0f497b42d0.gif" alt="Part 3" width="32%"/>
 </p>
