@@ -51,6 +51,8 @@
 ## 🚀 Tech Stack:
 <p align="center">
   <img src="https://i.pinimg.com/originals/a4/d3/ce/a4d3ce7ff09e24bbc4cf265686e9becc.gif" alt="Part 2" width="12%"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B" />
