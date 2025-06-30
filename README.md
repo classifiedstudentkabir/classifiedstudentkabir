@@ -16,7 +16,6 @@
   📫 Reach me: <a href="mailto:mylinkedinacc1@gmail.com">mylinkedinacc1@gmail.com</a>  
 </p>
 
----
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 </p>
@@ -30,7 +29,10 @@
 </p>
 
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+</p>
+
 
 ## 📈 Activity Graph:
 <p align="center">
@@ -38,7 +40,10 @@
 </p>
 
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+</p>
+
 
 ## 🚀 Tech Stack:
 <p align="center">
@@ -48,7 +53,9 @@
   <img src="https://img.shields.io/badge/-Web%20Development-FFA500?style=for-the-badge&logo=html5" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+</p>
 
 <p align="center"><i>"You are getting Distracted again. You got dreams to chase, not people to impress!"</i></p>
 
