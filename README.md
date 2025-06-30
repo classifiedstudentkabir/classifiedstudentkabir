@@ -1,5 +1,9 @@
 <!-- Header with Gradient -->
 <p align="center">
+  <img src="https://raw.githubusercontent.com/kabirji/kabirji/main/assets/Bottom_up_Kabir.svg" />
+</p>
+
+<p align="center">
   <img src="https://i.pinimg.com/originals/b4/a1/91/b4a191e1d7f4d288f3b1204b159a9ff8.gif" alt="Thanks for visiting!" width="90%" height="220" />
 </p>
 
