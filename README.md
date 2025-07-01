@@ -23,8 +23,7 @@
 ## 🧠 GitHub Stats Overview:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=classifiedstudentkabir&show_icons=true&hide_border=false&bg_color=1a1a1a&title_color=ff3c3c&text_color=ffffff&icon_color=ff5c5c" width="42%" />
-  <img src="https://streak-stats.demolab.com?username=classifiedstudentkabir&hide_border=false&background=1A1A1A&ring=FF3C3C&fire=FF3C3C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=FF5C5C&currStreakNum=FF5C5C" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=classifiedstudentkabir&show_icons=true&hide_border=false&bg_color=1a1a1a&title_color=ff3c3c&text_color=ffffff&icon_color=ff5c5c" width="45%" />
 </p>
 
 <p align="center">
@@ -32,12 +31,9 @@
   <img src="https://i.pinimg.com/originals/46/28/48/462848d3c51a843c30469c0f497b42d0.gif" alt="Thank You GIF" width="25%" />
 </p>
 
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 </p>
-
 
 ## 📈 Activity Graph:
 <p align="center">
