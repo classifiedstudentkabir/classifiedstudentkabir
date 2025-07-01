@@ -39,6 +39,9 @@
 </p>
 
 
+- ⌨️ [Typing Stats](https://monkeytype.com/profile/kabirji)
+
+
 ## 📈 Activity Graph:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=classifiedstudentkabir&bg_color=1a1a1a&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true" />
