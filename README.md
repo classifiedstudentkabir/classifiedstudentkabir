@@ -24,7 +24,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=classifiedstudentkabir&show_icons=true&hide_border=false&bg_color=1a1a1a&title_color=ff3c3c&text_color=ffffff&icon_color=ff5c5c" width="42%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=classifiedstudentkabir&hide_border=false&background=1A1A1A&ring=FF3C3C&fire=FF3C3C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=FF5C5C&currStreakNum=FF5C5C" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=classifiedstudentkabir&hide_border=false&background=1A1A1A&ring=FF3C3C&fire=FF3C3C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=FF5C5C&currStreakNum=FF5C5C" width="45%" />
 </p>
 
 <p align="center">
