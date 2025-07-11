@@ -35,16 +35,6 @@
   <img src="https://i.pinimg.com/originals/46/28/48/462848d3c51a843c30469c0f497b42d0.gif" alt="Thank You GIF" width="25%" />
 </p>
 
-<h2 align="center">## 📈 Activity Graph:</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=classifiedstudentkabir&bg_color=1a1a1a&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true" />
-</p>
-
-### My GitHub Contribution Graph
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=classifiedstudentkabir&theme=github-compact)
-
-
 
 
 <h2 align="center">## 🚀 Language & tools I have Placed My hands On:</h2>
@@ -94,10 +84,12 @@
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/-Web%20Development-FFA500?style=for-the-badge&logo=html5" />
 </p>
+
+<h2> </h2>
 <p align="center">
   <img src="https://i.pinimg.com/originals/07/c3/5b/07c35b540ac0245194b55bedd109c720.gif" alt="Part 1" width="32%"/>
 </p>
-<h2 align="center"><i>"You are getting Distracted again. You got dreams to chase, not people to impress!"</i></h2>
+<h3 align="center"><i>"You are getting Distracted again. You got dreams to chase, not people to impress!"</i></h3>
 
 
 
