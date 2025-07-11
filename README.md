@@ -19,8 +19,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a><a href="https://www.linkedin.com/in/kabirji-thedeveloper" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a><a href="https://github.com/classifiedstudentkabir" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -42,17 +40,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=classifiedstudentkabir&bg_color=1a1a1a&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true" />
 </p>
 
+### My GitHub Contribution Graph
 
-<h2 align="center">## 🚀 Tech Stack:</h2>
-<p align="center">
-  <img src="https://media.tenor.com/d_2N1rihkHIAAAAj/clash-royale-emote.gif" alt="Part 2" width="12%"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/-Web%20Development-FFA500?style=for-the-badge&logo=html5" />
-</p>
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=classifiedstudentkabir&theme=github-compact)
+
+
 
 
 <h2 align="center">## 🚀 Language & tools I have Placed My hands On:</h2>
@@ -89,8 +81,19 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+  -->
 </p>
--->
+
+<h2 align="center">## 🚀 Tech Stack:</h2>
+<p align="center">
+  <img src="https://media.tenor.com/d_2N1rihkHIAAAAj/clash-royale-emote.gif" alt="Part 2" width="12%"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/-Web%20Development-FFA500?style=for-the-badge&logo=html5" />
+</p>
 <p align="center">
   <img src="https://i.pinimg.com/originals/07/c3/5b/07c35b540ac0245194b55bedd109c720.gif" alt="Part 1" width="32%"/>
 </p>
