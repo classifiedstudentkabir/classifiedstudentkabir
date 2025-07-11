@@ -12,7 +12,7 @@
   💬 Ask me about <b>Android Development, Programming, Security, and Web Development</b> <br>
 </p>
 
-<h3 align="center">🌟 Reach Me On 🌟</h3>
+<h1 align="center">🌟 Reach Me On 🌟</h1>
 
 <p align="center">
   <a href="mailto:Mytemporarygeneratedid2@gmail.com">
