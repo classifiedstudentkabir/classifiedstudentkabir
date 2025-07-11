@@ -8,12 +8,27 @@
 </p>
 
 <h3 align="center">An Android Developer passionate about Cybersecurity and Linux.</h3>
+
 <p align="center">
   📱 I specialize in <b>Java, C, and C++</b> <br>
   🔐 Currently learning <b>Cybersecurity, Linux, and System Security</b> <br>
   💬 Ask me about <b>Android Development, Programming, Security, and Web Development</b> <br>
-  📫 Reach me: <a href="mailto:mylinkedinacc1@gmail.com">mylinkedinacc1@gmail.com</a>  
 </p>
+
+<h3 align="center">🌟 Reach Me On 🌟</h3>
+
+<p align="center">
+  <a href="mailto:Mytemporarygeneratedid2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/kabirji-thedeveloper" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/classifiedstudentkabir" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
