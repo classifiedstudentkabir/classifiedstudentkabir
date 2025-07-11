@@ -26,7 +26,7 @@
 
 
 
-<h3 align="center">## 🧠 GitHub Stats Overview:</h3>
+<h2 align="center">## 🧠 GitHub Stats Overview:</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=classifiedstudentkabir&show_icons=true&hide_border=false&bg_color=1a1a1a&title_color=ff3c3c&text_color=ffffff&icon_color=ff5c5c" width="45%" />
@@ -37,13 +37,13 @@
   <img src="https://i.pinimg.com/originals/46/28/48/462848d3c51a843c30469c0f497b42d0.gif" alt="Thank You GIF" width="25%" />
 </p>
 
-<h3 align="center">## 📈 Activity Graph:</h3>
+<h2 align="center">## 📈 Activity Graph:</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=classifiedstudentkabir&bg_color=1a1a1a&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true" />
 </p>
 
 
-<h3 align="center">## 🚀 Tech Stack:</h3>
+<h2 align="center">## 🚀 Tech Stack:</h2>
 <p align="center">
   <img src="https://media.tenor.com/d_2N1rihkHIAAAAj/clash-royale-emote.gif" alt="Part 2" width="12%"/>
 </p>
@@ -55,7 +55,7 @@
 </p>
 
 
-<h3 align="center">## 🚀 Language & tools I have Placed My hands On:</h3>
+<h2 align="center">## 🚀 Language & tools I have Placed My hands On:</h2>
 
 <p align="center">
   
@@ -94,7 +94,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/07/c3/5b/07c35b540ac0245194b55bedd109c720.gif" alt="Part 1" width="32%"/>
 </p>
-<h1 align="center"><i>"You are getting Distracted again. You got dreams to chase, not people to impress!"</i></h1>
+<h2 align="center"><i>"You are getting Distracted again. You got dreams to chase, not people to impress!"</i></h2>
 
 
 
