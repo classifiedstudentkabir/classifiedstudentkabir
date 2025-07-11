@@ -43,7 +43,7 @@
 </p>
 
 
-## 🚀 Tech Stack:
+<h3 align="center">## 🚀 Tech Stack:</h3>
 <p align="center">
   <img src="https://media.tenor.com/d_2N1rihkHIAAAAj/clash-royale-emote.gif" alt="Part 2" width="12%"/>
 </p>
@@ -54,10 +54,11 @@
   <img src="https://img.shields.io/badge/-Web%20Development-FFA500?style=for-the-badge&logo=html5" />
 </p>
 
-## 🚀 Language & tools I have Placed My hands On:
-<h3 align="center">🛠️ Languages & Tools I Have Placed My Hands On</h3>
+
+<h3 align="center">## 🚀 Language & tools I have Placed My hands On:</h3>
 
 <p align="center">
+  
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
