@@ -30,18 +30,7 @@
   <!-- NOTE: The original github-readme-stats service may be paused. Using more stable alternatives below. -->
   <!-- Stable summary card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=classifiedstudentkabir" width="45%" alt="Profile Summary" />
-</p>
 
-<p align="center">
-  <!-- Language breakdown (alternative service) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=classifiedstudentkabir&layout=compact&hide_border=false&bg_color=1a1a1a&title_color=ff3c3c&text_color=ffffff" width="35%" onerror="this.style.display='none'" alt="Top Languages" />
-  <!-- Fallback badges if the above fails -->
-  <span>
-    <br/>
-    <img src="https://img.shields.io/github/repo-size/classifiedstudentkabir/Sign-Language-Interpreter" alt="Repo Size" />
-    <img src="https://img.shields.io/github/forks/classifiedstudentkabir/Sign-Language-Interpreter" alt="Forks" />
-    <img src="https://img.shields.io/github/stars/classifiedstudentkabir/Sign-Language-Interpreter" alt="Stars" />
-  </span>
 
   <!-- GIF (kept as in your original) -->
   <img src="https://i.pinimg.com/originals/46/28/48/462848d3c51a843c30469c0f497b42d0.gif" alt="Thank You GIF" width="25%" />
