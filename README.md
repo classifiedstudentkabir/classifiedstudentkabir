@@ -12,20 +12,6 @@
   🔐 Currently learning <b>Cybersecurity, Linux, and System Security</b> <br>
   💬 Ask me about <b>Android Development, Programming, Security, and Web Development</b> <br>
 </p>
-<!-- Header with Gradient / Banner -->
-<p align="center">
-  <img src="https://i.makeagif.com/media/4-16-2021/Z0PUh5.gif" width="1000" height="270" alt="banner" />
-</p>
-
-<h1 align="center">👋 Hallo, I am Kabir (Kabirji Vishwakarma)!</h1>
-<h3 align="center">An Android Developer passionate about Cybersecurity and Linux.</h3>
-
-<p align="center">
-  📱 I specialize in <b>Java, C, and C++</b> &nbsp; • &nbsp;
-  🔐 Currently learning <b>Cybersecurity, Linux, and System Security</b> &nbsp; • &nbsp;
-  💬 Ask me about <b>Android Development, Programming, Security, and Web Dev</b>
-</p>
-
 <p align="center">
   <a href="mailto:Mytemporarygeneratedid2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -78,8 +64,6 @@
   </span>
 </p>
 
-<p align="center"><em>Note: some cards are powered by third-party services; they may occasionally be unavailable. Badges remain visible.</em></p>
-
 <hr/>
 
 <!-- Tech Stack -->
@@ -96,16 +80,6 @@
 </p>
 
 <hr/>
-
-### 🏆 Top Contributed Repos
-<details>
-  <summary>Click to expand</summary>
-
-- **Sign-Language-Interpreter** — docs, PPTs, images  
-- **HackNova-Project** — demo & slides  
-- **Some-Tool** — utilities
-
-</details>
 
 <hr/>
 
