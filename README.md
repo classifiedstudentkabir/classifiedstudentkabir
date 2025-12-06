@@ -11,9 +11,10 @@
 
 ## 🚀 About Me
 
-* 💻 I specialize in **Android Development**, **Java**, **C**, and **C++**.
-* 🔐 I’m currently learning **Cybersecurity**, **Cyber Security: Essentials for Forensics**, and **System Security**.
-* 💬 Ask me about **Android Apps**, **System Programming**, or **Web Development**.
+💻 I specialize in Android Development, Java, C, C++, and C#.
+📊 I also work with Python, Data Science in Python, R Programming, and basic .NET..
+🤖 I have knowledge in Prompt Engineering (ChatGPT Guide) and Application of AI.
+🔐 I’m learning Cyber Security: Essentials for Forensics, Digital Forensics, and Mobile Security.
 * ⚡ Fun fact: I am passionate about **OSINT** and Cybersecurity.
 * 📫 How to reach me: [Mytemporarygeneratedid2@gmail.com](mailto:Mytemporarygeneratedid2@gmail.com)
 
@@ -32,6 +33,69 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+
+## 🛠️ Tech Stack & Tools I Work With
+
+<div align="center">
+
+### 💻 Programming Languages & Frameworks
+
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Programming">
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  
+  <br>
+
+### ⚙️ Development Tools & Platforms
+
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Sublime%20Text-FF9966?style=for-the-badge&logo=sublime-text&logoColor=white" alt="Sublime Text">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse IDE">
+  <img src="https://img.shields.io/badge/Dev%2FC%2B%2B-0080FF?style=for-the-badge&logo=dev-c%2B%2B&logoColor=white" alt="Dev-C++">
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat">
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
+  
+  <br>
+
+### ☁️ Design, Data & Cloud Services
+
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Data%20Science-4A154B?style=for-the-badge&logo=numpy&logoColor=white" alt="Data Science in Python">
+  <img src="https://img.shields.io/badge/AI%20Prompt%20Eng-343A40?style=for-the-badge&logo=openai&logoColor=white" alt="AI Prompt Engineering">
+  <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=openai&logoColor=00FFFF" alt="Cursor AI">
+
+  <br>
+  
+### 🛡️ Security & Virtualization
+
+  <img src="https://img.shields.io/badge/Cyber%20Security-E70404?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cyber Security">
+  <img src="https://img.shields.io/badge/Digital%20Forensics-4B0082?style=for-the-badge&logo=wireshark&logoColor=white" alt="Digital Forensics">
+  <img src="https://img.shields.io/badge/Mobile%20Security-20B2AA?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Security">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/VMware-005B9A?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware">
+
+</div>
+
+---
+  
 </div>
 
 ---
