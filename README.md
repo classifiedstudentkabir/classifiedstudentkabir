@@ -22,24 +22,10 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  
-  <br>
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-
 ## 💻 Programming Languages & 🛠️ Tools I Work With
 
 <div align="center">
 
-###  & Frameworks
 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -107,6 +93,7 @@
 
   <!-- STREAK: demolab/streak (more reliable) -->
   <img src="https://streak-stats.demolab.com?user=classifiedstudentkabir&theme=dark" height="170" alt="GitHub Streak" />
+  <img src="https://media.tenor.com/d_2N1rihkHIAAAAj/clash-royale-emote.gif" alt="Part 2" width="12%"/>
 
   <br/>
 
