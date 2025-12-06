@@ -1,9 +1,10 @@
 <div align="center">
-  <a href="https://github.com/classifiedstudentkabir">
-    <img src="https://avatars.githubusercontent.com/u/178186404?v=4" width="150" height="150" alt="Kabir Avatar" style="border-radius: 50%;">
-  </a>
-  <h1 align="center">Namaste 🙏 I'm Kabir!</h1>
-  <h3 align="center">Android Developer | Cybersecurity Enthusiast | Linux User</h3>
+  <p>
+  <img src="https://i.makeagif.com/media/4-16-2021/Z0PUh5.gif" width="1000" height="270" />
+</p>
+<h1 align="center">👋 Hallo, I am Kabir (Kabirji Vishwakarma)!</h1>
+
+<h3 align="center">An Android Developer passionate about Cybersecurity Enthusiast and Linux.</h3>
 </div>
 
 ---
@@ -11,14 +12,12 @@
 ## 🚀 About Me
 
 * 💻 I specialize in **Android Development**, **Java**, **C**, and **C++**.
-* 🔐 I’m currently learning **Cybersecurity**, **Linux Administration**, and **System Security**.
+* 🔐 I’m currently learning **Cybersecurity**, **Cybersecurity **, and **System Security**.
 * 💬 Ask me about **Android Apps**, **System Programming**, or **Web Development**.
 * ⚡ Fun fact: I am passionate about **Linux** and open-source technology.
 * 📫 How to reach me: [Mytemporarygeneratedid2@gmail.com](mailto:Mytemporarygeneratedid2@gmail.com)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=header" alt="Waving Header" width="100%">
-</div>
+
 
 ---
 
@@ -53,15 +52,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=classifiedstudentkabir&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=007ACC&icon_color=007ACC&text_color=ffffff&bg_color=191e2a" alt="Kabir's GitHub Stats" style="margin-right: 15px;">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=classifiedstudentkabir&layout=compact&theme=dark&title_color=007ACC&icon_color=007ACC&text_color=ffffff&bg_color=191e2a" alt="Kabir's Top Languages">
-
-  <br>
-  
-  <img src="https://github-readme-streak-stats.vercel.app/?user=classifiedstudentkabir&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=191e2a&ring=007ACC&fire=007ACC&currstreak=ffffff&sideNums=ffffff&sideLabels=999999&dates=999999" alt="Kabir's GitHub Streak">
+  <a href="https://github.com/classifiedstudentkabir">
+    <img src="https://github-readme-stats.vercel.app/api?username=classifiedstudentkabir&show_icons=true&theme=dark&hide_border=true" height="170" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/classifiedstudentkabir">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=classifiedstudentkabir&layout=compact&theme=dark&hide_border=true" height="170" alt="Top Languages" />
+  </a>
+  <br />
+  <a href="https://github.com/classifiedstudentkabir">
+    <img src="https://github-readme-streak-stats.vercel.app/?user=classifiedstudentkabir&theme=dark&hide_border=true" height="170" alt="GitHub Streak" />
+  </a>
 </div>
-
 ---
 
 ## 📈 Activity Graph
