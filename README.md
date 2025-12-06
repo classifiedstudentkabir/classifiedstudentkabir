@@ -96,7 +96,7 @@
 
   <!-- STREAK: demolab/streak (more reliable) -->
   <img src="https://streak-stats.demolab.com?user=classifiedstudentkabir&theme=dark" height="170" alt="GitHub Streak" />
-  <img src="https://i.pinimg.com/originals/07/c3/5b/07c35b540ac0245194b55bedd109c720.gif" alt="Part 1" width="28%"/>
+  <img src="https://i.pinimg.com/originals/07/c3/5b/07c35b540ac0245194b55bedd109c720.gif" alt="Part 1" width="20%"/>
   
   <br/>
 
