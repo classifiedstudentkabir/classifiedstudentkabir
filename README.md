@@ -17,8 +17,7 @@
 - 📊 I also work with Python, Data Science in Python, R Programming, and basic .NET.
 - 🤖 I have knowledge in Prompt Engineering (ChatGPT Guide) and Application of AI.
 - 🔐 I’m learning Cyber Security: Essentials for Forensics, Digital Forensics, and Mobile Security.
-- ⚡ Fun fact: I am passionate about **OSINT** and Cybersecurity.
-- 📫 How to reach me: <a href="mailto:Mytemporarygeneratedid2@gmail.com">Mytemporarygeneratedid2@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:Mytemporarygeneratedid2@gmail.com">sameasmyinstagramacc@gmail.com</a>
 
 <!-- note: keep a blank line after the list if needed -->
 
