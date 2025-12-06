@@ -18,22 +18,14 @@
 - 🤖 I have knowledge in Prompt Engineering (ChatGPT Guide) and Application of AI.
 - 🔐 I’m learning Cyber Security: Essentials for Forensics, Digital Forensics, and Mobile Security.
 - 📫 How to reach me:
-<p align="left">
 
-  <!-- Gmail -->
   <a href="mailto:sameasmyinstagramid@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/kabirji-thedeveloper" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-</p>
-
-<br>
-<!-- note: keep a blank line after the list if needed -->
 
 ---
 
