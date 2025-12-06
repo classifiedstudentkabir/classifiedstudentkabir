@@ -11,29 +11,16 @@
 
 ## 🚀 About Me
 
-<table>
-  <tr>
-    <td>
+<img src="https://i.pinimg.com/originals/46/28/48/462848d3c51a843c30469c0f497b42d0.gif" align="right" width="160" alt="gif" />
 
-      <ul>
-        <li>💻 I specialize in Android Development, Java, C, C++, and C#.</li>
-        <li>📊 I also work with Python, Data Science in Python, R Programming, and basic .NET.</li>
-        <li>🤖 I have knowledge in Prompt Engineering (ChatGPT Guide) and Application of AI.</li>
-        <li>🔐 I’m learning Cyber Security: Essentials for Forensics, Digital Forensics, and Mobile Security.</li>
-        <li>⚡ Fun fact: I am passionate about <b>OSINT</b> and Cybersecurity.</li>
-        <li>📫 How to reach me: 
-          <a href="mailto:Mytemporarygeneratedid2@gmail.com">Mytemporarygeneratedid2@gmail.com</a>
-        </li>
-      </ul>
+- 💻 I specialize in Android Development, Java, C, C++, and C#.
+- 📊 I also work with Python, Data Science in Python, R Programming, and basic .NET.
+- 🤖 I have knowledge in Prompt Engineering (ChatGPT Guide) and Application of AI.
+- 🔐 I’m learning Cyber Security: Essentials for Forensics, Digital Forensics, and Mobile Security.
+- ⚡ Fun fact: I am passionate about **OSINT** and Cybersecurity.
+- 📫 How to reach me: <a href="mailto:Mytemporarygeneratedid2@gmail.com">Mytemporarygeneratedid2@gmail.com</a>
 
-    </td>
-
-    <td align="right">
-      <img src="https://i.pinimg.com/originals/46/28/48/462848d3c51a843c30469c0f497b42d0.gif" 
-           width="160" />
-    </td>
-  </tr>
-</table>
+<!-- note: keep a blank line after the list if needed -->
 
 
 
