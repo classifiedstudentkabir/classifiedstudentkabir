@@ -19,9 +19,7 @@
 
 
 
----
-
-## 🛠️ Tech Stack & Tools
+---## 🛠️ Tech Stack & Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
@@ -52,17 +50,27 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/classifiedstudentkabir">
-    <img src="https://github-readme-stats.vercel.app/api?username=classifiedstudentkabir&show_icons=true&theme=dark&hide_border=true" height="170" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/classifiedstudentkabir">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=classifiedstudentkabir&layout=compact&theme=dark&hide_border=true" height="170" alt="Top Languages" />
-  </a>
-  <br />
-  <a href="https://github.com/classifiedstudentkabir">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=classifiedstudentkabir&theme=dark&hide_border=true" height="170" alt="GitHub Streak" />
-  </a>
+
+  <!-- PROFILE SUMMARY: stable alternative -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=classifiedstudentkabir&theme=dark" height="170" alt="Profile Summary" />
+
+  <!-- KEY METRICS: github-readme-stats (may be down sometimes) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=classifiedstudentkabir&show_icons=true&theme=dark&hide_border=true" height="170" alt="GitHub Stats" />
+
+  <!-- STREAK: demolab/streak (more reliable) -->
+  <img src="https://streak-stats.demolab.com?user=classifiedstudentkabir&theme=dark" height="170" alt="GitHub Streak" />
+
+  <br/>
+
+  <!-- FALLBACK BADGES: always visible if above cards fail -->
+  <img src="https://img.shields.io/github/repo-size/classifiedstudentkabir/Sign-Language-Interpreter" alt="Repo Size" />
+  <img src="https://img.shields.io/github/forks/classifiedstudentkabir/Sign-Language-Interpreter" alt="Forks" />
+  <img src="https://img.shields.io/github/stars/classifiedstudentkabir/Sign-Language-Interpreter" alt="Stars" />
+
 </div>
+
+<p align="center"><em>Note: some cards are powered by external services and may be unavailable temporarily. If a card shows blank, rely on the badges above or try later.</em></p>
+
 ---
 
 ## 📈 Activity Graph
