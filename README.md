@@ -13,46 +13,95 @@
   💬 Ask me about <b>Android Development, Programming, Security, and Web Development</b> <br>
 </p>
 
-<h2 align="center">🌟 Reach Me On 🌟</h2>
-<!-- ====== MIDDLE SECTION: LANGUAGES, STATS PANELS, TECH STACK (GITHUB-SAFE) ====== -->
-
+<!-- ====== LANGUAGES & BADGES ROW ====== -->
 <h2 align="center">🚀 Languages & tools I Have Placed My Hands On</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <!-- Row 1 -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
+
+<p align="center">
+  <!-- Row 2 -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ====== STATS PANELS (three panels visually) ====== -->
+<h2 align="center">⚡ GitHub Stats</h2>
 
-<!-- Markdown table used for a 3-column panel layout (GitHub-safe) -->
-| **Profile Summary** | **Contributions (big)** | **Streak & Top Languages** |
+<!-- Markdown table used to create three side-by-side panels (GitHub-safe) -->
+| **Profile Summary** | **Key Metrics** | **Streak & Top Languages** |
 |---|:---:|---:|
-| <p align="center">**Profile Summary**<br/><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=classifiedstudentkabir&theme=dark" alt="Profile Summary" width="320"/></p> | <p align="center">**Contribution Graph**<br/><img src="https://ghchart.rshah.org/classifiedstudentkabir" alt="Contributions Graph" width="520"/><br/><sub>Public contributions (commits, PRs, issues)</sub></p> | <p align="center">**Streak & Top-langs**<br/><img src="https://streak-stats.demolab.com?user=classifiedstudentkabir&theme=dark" alt="Streak Stats" width="280"/><br/><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=classifiedstudentkabir&layout=compact&theme=dark" alt="Top Languages" width="280"/></p> |
+| <p align="center">**Profile Summary**<br/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=classifiedstudentkabir&theme=dark" width="320" alt="Profile Summary" /></p> | <p align="center">**Key Metrics**<br/> <!-- main stats card --> <img src="https://github-readme-stats.vercel.app/api?username=classifiedstudentkabir&show_icons=true&theme=dark&hide_border=true" width="360" alt="Github Stats" /><br/> <sub>Commits / PRs / Contributions — visible via this card</sub></p> | <p align="center">**Streak & Top Languages**<br/> <img src="https://streak-stats.demolab.com?user=classifiedstudentkabir&theme=dark" width="280" alt="Streak Stats" /><br/><br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=classifiedstudentkabir&layout=compact&theme=dark&hide_border=true" width="280" alt="Top Languages" /></p> |
 
 ---
 
+<!-- ====== MOST USED LANGUAGES (visual bar imitation using top-langs) ====== -->
+<h3 align="center">🧾 Most Used Languages</h3>
+<p align="center">
+  <!-- compact top-langs card (shows language percentages) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=classifiedstudentkabir&layout=compact&theme=dark&hide_border=false" alt="Most Used Languages" />
+</p>
+
+---
+
+<!-- ====== TECH STACK (colorful badges) ====== -->
 <h2 align="center">🧰 Tech Stack</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java" alt="Java" />
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c" alt="C" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B" alt="C++" />
-  <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android" alt="Android" />
-  <img src="https://img.shields.io/badge/-Web%20Dev-FFA500?style=for-the-badge&logo=html5" alt="Web" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git" alt="Git" />
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<p align="center"><em>Tip: if a card shows blank or a 503 page, the third-party service is temporarily down — the badges will still display.</em></p>
+---
+
+<!-- ====== TOP CONTRIBUTED REPO (sample list) ====== -->
+<h3 align="center">🏆 Top Contributed Repos</h3>
+<p align="center">
+  <sub>
+  • <strong>Sign-Language-Interpreter</strong> — docs & slides<br/>
+  • <strong>HackNova-Project</strong> — demo & ppt<br/>
+  • <strong>Some-Tool</strong> — utilities
+  </sub>
+</p>
+
+---
+
+<!-- ====== RANDOM DEV QUOTE (right panel style imitation) ====== -->
+<h3 align="center">💬 Random Dev Quote</h3>
+<p align="center">
+  <blockquote>
+    <em>"Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function." — John Carmack</em>
+  </blockquote>
+</p>
+
+---
