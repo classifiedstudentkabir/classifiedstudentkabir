@@ -12,9 +12,9 @@
 ## 🚀 About Me
 
 * 💻 I specialize in **Android Development**, **Java**, **C**, and **C++**.
-* 🔐 I’m currently learning **Cybersecurity**, **Cybersecurity **, and **System Security**.
+* 🔐 I’m currently learning **Cybersecurity**, **Cyber Security: Essentials for Forensics**, and **System Security**.
 * 💬 Ask me about **Android Apps**, **System Programming**, or **Web Development**.
-* ⚡ Fun fact: I am passionate about **Linux** and open-source technology.
+* ⚡ Fun fact: I am passionate about **OSINT** and Cybersecurity.
 * 📫 How to reach me: [Mytemporarygeneratedid2@gmail.com](mailto:Mytemporarygeneratedid2@gmail.com)
 
 
