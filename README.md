@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <em>Note: Some cards use third-party services and may be temporarily unavailable (you may see a blank/503 image). If that happens, try again later or check the badges above.</em>
+<!--  <em>Note: Some cards use third-party services and may be temporarily unavailable (you may see a blank/503 image). If that happens, try again later or check the badges above.</em>-->
 </p>
 
 
