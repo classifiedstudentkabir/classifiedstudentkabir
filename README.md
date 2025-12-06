@@ -17,9 +17,7 @@
 - 📊 I also work with Python, Data Science in Python, R Programming, and basic .NET.
 - 🤖 I have knowledge in Prompt Engineering (ChatGPT Guide) and Application of AI.
 - 🔐 I’m learning Cyber Security: Essentials for Forensics, Digital Forensics, and Mobile Security.
-- 📫 How to reach me: 
-## 🌟 Follow Me On:
-
+- 📫 How to reach me:
 <p align="left">
 
   <!-- Gmail -->
