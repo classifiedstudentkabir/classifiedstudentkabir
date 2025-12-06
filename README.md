@@ -86,6 +86,7 @@
   <img src="https://img.shields.io/badge/Digital%20Forensics-4B0082?style=for-the-badge&logo=wireshark&logoColor=white" alt="Digital Forensics">
   <img src="https://img.shields.io/badge/Mobile%20Security-20B2AA?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Security">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
   <img src="https://img.shields.io/badge/VMware-005B9A?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware">
 
 </div>
