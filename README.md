@@ -25,6 +25,7 @@
 </p>
 
 <hr/>
+
 <!-- ====== MIDDLE SECTION: LANGUAGES, STATS PANELS, TECH STACK ====== -->
 
 <!-- Languages & tools (big icons row) -->
