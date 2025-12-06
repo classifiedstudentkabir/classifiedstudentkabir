@@ -11,15 +11,25 @@
 
 ## 🚀 About Me
 
-* 💻 I specialize in Android Development, Java, C, C++, and C#.
-* 📊 I also work with Python, Data Science in Python, R Programming, and basic .NET..
-* 🤖 I have knowledge in Prompt Engineering (ChatGPT Guide) and Application of AI.
-* 🔐 I’m learning Cyber Security: Essentials for Forensics, Digital Forensics, and Mobile Security.
-* ⚡ Fun fact: I am passionate about **OSINT** and Cybersecurity.
-* 📫 How to reach me: [Mytemporarygeneratedid2@gmail.com](mailto:Mytemporarygeneratedid2@gmail.com)
-<br>
-  <img src="https://i.pinimg.com/originals/46/28/48/462848d3c51a843c30469c0f497b42d0.gif" alt="Thank You GIF" width="25%" />
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
+  <div>
+    <ul>
+      <li>💻 I specialize in Android Development, Java, C, C++, and C#.</li>
+      <li>📊 I also work with Python, Data Science in Python, R Programming, and basic .NET.</li>
+      <li>🤖 I have knowledge in Prompt Engineering (ChatGPT Guide) and Application of AI.</li>
+      <li>🔐 I’m learning Cyber Security: Essentials for Forensics, Digital Forensics, and Mobile Security.</li>
+      <li>⚡ Fun fact: I am passionate about <b>OSINT</b> and Cybersecurity.</li>
+      <li>📫 How to reach me: <a href="mailto:Mytemporarygeneratedid2@gmail.com">Mytemporarygeneratedid2@gmail.com</a></li>
+    </ul>
+  </div>
+
+  <div>
+    <img src="https://i.pinimg.com/originals/46/28/48/462848d3c51a843c30469c0f497b42d0.gif" 
+         alt="GIF" width="180">
+  </div>
+
+</div>
 
 
 
