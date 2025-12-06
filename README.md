@@ -17,6 +17,8 @@
 * 🔐 I’m learning Cyber Security: Essentials for Forensics, Digital Forensics, and Mobile Security.
 * ⚡ Fun fact: I am passionate about **OSINT** and Cybersecurity.
 * 📫 How to reach me: [Mytemporarygeneratedid2@gmail.com](mailto:Mytemporarygeneratedid2@gmail.com)
+  <img src="https://i.pinimg.com/originals/46/28/48/462848d3c51a843c30469c0f497b42d0.gif" alt="Thank You GIF" width="25%" />
+
 
 
 
@@ -93,10 +95,8 @@
 
   <!-- STREAK: demolab/streak (more reliable) -->
   <img src="https://streak-stats.demolab.com?user=classifiedstudentkabir&theme=dark" height="170" alt="GitHub Streak" />
-  <img src="https://media.tenor.com/d_2N1rihkHIAAAAj/clash-royale-emote.gif" alt="Part 2" width="12%"/>
   <img src="https://i.pinimg.com/originals/07/c3/5b/07c35b540ac0245194b55bedd109c720.gif" alt="Part 1" width="32%"/>
-  <img src="https://i.pinimg.com/originals/46/28/48/462848d3c51a843c30469c0f497b42d0.gif" alt="Thank You GIF" width="25%" />
-
+  
   <br/>
 
 </div>
