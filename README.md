@@ -25,78 +25,78 @@
 </p>
 
 <hr/>
+<!-- ====== MIDDLE SECTION: LANGUAGES, STATS PANELS, TECH STACK ====== -->
 
-<h2 align="center">## 🧠 GitHub Stats Overview:</h2>
-
+<!-- Languages & tools (big icons row) -->
+<h2 align="center">🚀 Languages & tools I Have Placed My Hands On</h2>
 <p align="center">
-  <!-- Stable profile summary (good replacement when primary stats are down) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=classifiedstudentkabir" width="48%" alt="Profile Summary" />
-
-  <!-- Optional streak or contributions graph (alternative service) -->
-  <img src="https://streak-stats.demolab.com?user=classifiedstudentkabir&theme=dark" width="35%" alt="Streak Stats" />
+  <!-- a curated large icon set — add/remove as you like -->
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <!-- add more badges as needed -->
 </p>
 
+---
+
+<!-- Stats panels row -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<!-- Use a simple 3-column table to imitate panels (left = summary, middle = contribution graph, right = streak + top-langs) -->
+<table align="center">
+  <tr>
+    <!-- LEFT: Profile summary card -->
+    <td align="center" valign="top" width="350">
+      <strong>Profile Summary</strong><br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=classifiedstudentkabir" width="320" alt="Profile Summary" />
+    </td>
+
+    <!-- MIDDLE: Contribution Graph (big) -->
+    <td align="center" valign="top" width="450">
+      <strong>Contributions Graph</strong><br/>
+      <!-- contribution graph from gh (this is the actual github contributions svg) -->
+      <img src="https://ghchart.rshah.org/classifiedstudentkabir" width="440" alt="Contributions Graph" />
+      <br/>
+      <sub>Note: this graph reflects public contributions (commits, PRs, etc.).</sub>
+    </td>
+
+    <!-- RIGHT: Streak + Top Languages -->
+    <td align="center" valign="top" width="300">
+      <strong>Streak & Languages</strong><br/>
+      <!-- Streak card (alternative if others are down) -->
+      <img src="https://streak-stats.demolab.com?user=classifiedstudentkabir&theme=dark" width="280" alt="Streak Stats" /><br/><br/>
+      <!-- Top languages (compact) -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=classifiedstudentkabir&layout=compact&hide_border=false" width="280" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- Tech stack (bigger colorful badges) -->
+<h2 align="center">🧰 Tech Stack</h2>
 <p align="center">
-  <!-- Fallback badges (very stable) -->
-  <img src="https://img.shields.io/github/repo-size/classifiedstudentkabir/Sign-Language-Interpreter" alt="Repo Size" />
-  <img src="https://img.shields.io/github/forks/classifiedstudentkabir/Sign-Language-Interpreter" alt="Forks" />
-  <img src="https://img.shields.io/github/stars/classifiedstudentkabir/Sign-Language-Interpreter" alt="Stars" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c" alt="C" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B" alt="C++" />
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android" alt="Android" />
+  <img src="https://img.shields.io/badge/-Web%20Dev-FFA500?style=for-the-badge&logo=html5" alt="Web" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code" alt="VS Code" />
+  <!-- add additional badges if you want -->
 </p>
 
-<p align="center">
-  <em>Note: Some cards rely on third-party services (they may be temporarily paused). If a stats card is blank, try again later or rely on the badges above.</em>
-</p>
+---
 
-<hr/>
-
-<h2 align="center">## 🚀 Language & tools I have Placed My hands On:</h2>
-
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-
-  <!-- Data & DB -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-<hr/>
-
-<h2 align="center">## 🚀 Tech Stack:</h2>
-<p align="center">
-  <img src="https://media.tenor.com/d_2N1rihkHIAAAAj/clash-royale-emote.gif" alt="Part 2" width="12%"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/-Web%20Development-FFA500?style=for-the-badge&logo=html5" />
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/07/c3/5b/07c35b540ac0245194b55bedd109c720.gif" alt="Part 1" width="32%"/>
-</p>
-
-<h3 align="center"><i>"You are getting Distracted again. You got dreams to chase, not people to impress!"</i></h3>
-
-<hr/>
-
-<!-- Optional: small contributors / contact footer -->
-<p align="center">
-  <sub>Made with ❤️ by Kabir (classifiedstudentkabir) — &nbsp;
-  <a href="https://github.com/classifiedstudentkabir">GitHub</a></sub>
-</p>
+<!-- short note -->
+<p align="center"><em>Tip: if any of the cards show blank/503, the third-party service may be temporarily unavailable — badges will still show.</em></p>
