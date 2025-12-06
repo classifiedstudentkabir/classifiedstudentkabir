@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-<img src="https://i.pinimg.com/originals/46/28/48/462848d3c51a843c30469c0f497b42d0.gif" align="right" width="160" alt="gif" />
+<img src="https://i.pinimg.com/originals/46/28/48/462848d3c51a843c30469c0f497b42d0.gif" align="right" width="190" alt="gif" />
 
 - 💻 I specialize in Android Development, Java, C, C++, and C#.
 - 📊 I also work with Python, Data Science in Python, R Programming, and basic .NET.
