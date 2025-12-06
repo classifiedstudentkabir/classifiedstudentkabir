@@ -14,24 +14,10 @@
 </p>
 
 <h2 align="center">🌟 Reach Me On 🌟</h2>
+<!-- ====== MIDDLE SECTION: LANGUAGES, STATS PANELS, TECH STACK (GITHUB-SAFE) ====== -->
 
-<p align="center">
-  <a href="mailto:Mytemporarygeneratedid2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/kabirji-thedeveloper" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<hr/>
-
-<!-- ====== MIDDLE SECTION: LANGUAGES, STATS PANELS, TECH STACK ====== -->
-
-<!-- Languages & tools (big icons row) -->
 <h2 align="center">🚀 Languages & tools I Have Placed My Hands On</h2>
 <p align="center">
-  <!-- a curated large icon set — add/remove as you like -->
   <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -44,46 +30,19 @@
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <!-- add more badges as needed -->
 </p>
 
 ---
 
-<!-- Stats panels row -->
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
-<!-- Use a simple 3-column table to imitate panels (left = summary, middle = contribution graph, right = streak + top-langs) -->
-<table align="center">
-  <tr>
-    <!-- LEFT: Profile summary card -->
-    <td align="center" valign="top" width="350">
-      <strong>Profile Summary</strong><br/>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=classifiedstudentkabir" width="320" alt="Profile Summary" />
-    </td>
-
-    <!-- MIDDLE: Contribution Graph (big) -->
-    <td align="center" valign="top" width="450">
-      <strong>Contributions Graph</strong><br/>
-      <!-- contribution graph from gh (this is the actual github contributions svg) -->
-      <img src="https://ghchart.rshah.org/classifiedstudentkabir" width="440" alt="Contributions Graph" />
-      <br/>
-      <sub>Note: this graph reflects public contributions (commits, PRs, etc.).</sub>
-    </td>
-
-    <!-- RIGHT: Streak + Top Languages -->
-    <td align="center" valign="top" width="300">
-      <strong>Streak & Languages</strong><br/>
-      <!-- Streak card (alternative if others are down) -->
-      <img src="https://streak-stats.demolab.com?user=classifiedstudentkabir&theme=dark" width="280" alt="Streak Stats" /><br/><br/>
-      <!-- Top languages (compact) -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=classifiedstudentkabir&layout=compact&hide_border=false" width="280" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<!-- Markdown table used for a 3-column panel layout (GitHub-safe) -->
+| **Profile Summary** | **Contributions (big)** | **Streak & Top Languages** |
+|---|:---:|---:|
+| <p align="center">**Profile Summary**<br/><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=classifiedstudentkabir&theme=dark" alt="Profile Summary" width="320"/></p> | <p align="center">**Contribution Graph**<br/><img src="https://ghchart.rshah.org/classifiedstudentkabir" alt="Contributions Graph" width="520"/><br/><sub>Public contributions (commits, PRs, issues)</sub></p> | <p align="center">**Streak & Top-langs**<br/><img src="https://streak-stats.demolab.com?user=classifiedstudentkabir&theme=dark" alt="Streak Stats" width="280"/><br/><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=classifiedstudentkabir&layout=compact&theme=dark" alt="Top Languages" width="280"/></p> |
 
 ---
 
-<!-- Tech stack (bigger colorful badges) -->
 <h2 align="center">🧰 Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java" alt="Java" />
@@ -94,10 +53,6 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql" alt="MySQL" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git" alt="Git" />
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code" alt="VS Code" />
-  <!-- add additional badges if you want -->
 </p>
 
----
-
-<!-- short note -->
-<p align="center"><em>Tip: if any of the cards show blank/503, the third-party service may be temporarily unavailable — badges will still show.</em></p>
+<p align="center"><em>Tip: if a card shows blank or a 503 page, the third-party service is temporarily down — the badges will still display.</em></p>
