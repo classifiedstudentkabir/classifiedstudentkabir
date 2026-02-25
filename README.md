@@ -1,11 +1,13 @@
-<div align="center">
-  <p>
-  <img src="https://i.makeagif.com/media/4-16-2021/Z0PUh5.gif" width="1000" height="270" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%22You're%20too%20serious.%20I%20prefer%20committed.%22" alt="Typing introduction" />
-</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Kabirji%20Vishwakarma&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=classifiedstudentkabir">
+    <img src="https://komarev.com/ghpvc/?username=classifiedstudentkabir&label=Profile%20views&color=00FFFF&style=flat-square" alt="classifiedstudentkabir's profile views" />
+  </a>
+</p>
+
+<img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
 
 <h3 align="center">An Android Developer passionate about Cybersecurity Enthusiast and Linux.</h3>
 </div>
@@ -93,6 +95,7 @@
 
 ---
 
+
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/classifiedstudentkabir">
@@ -134,13 +137,15 @@
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/kabirji-thedeveloper/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:kabirjivishwakarmag@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-<img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="80%" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%22You're%20obsessed.%20I%20prefer%20focused.%22" alt="Typing introduction" />
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
