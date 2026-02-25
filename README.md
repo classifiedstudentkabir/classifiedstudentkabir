@@ -76,35 +76,28 @@
 
 ----
 
-<img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%">
+
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/classifiedstudentkabir">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=classifiedstudentkabir&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="classifiedstudentkabir's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=classifiedstudentkabir&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="classifiedstudentkabir's GitHub Streak" width="49%" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=classifiedstudentkabir&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="20%">
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=classifiedstudentkabir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kabirji Vishwakarma's GitHub Trophies" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/classifiedstudentkabir">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=classifiedstudentkabir&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%22You're%20obsessed.%20I%20prefer%20focused.%22" alt="Typing introduction" />
-</p>
 ---
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%22You're%20obsessed.%20I%20prefer%20focused.%22" alt="Typing introduction" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
