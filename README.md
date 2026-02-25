@@ -64,7 +64,7 @@
   <br>
   
 ### 🛡️ Security & Virtualization
-
+  <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="20%">
   <img src="https://img.shields.io/badge/Cyber%20Security-E70404?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cyber Security">
   <img src="https://img.shields.io/badge/Digital%20Forensics-4B0082?style=for-the-badge&logo=wireshark&logoColor=white" alt="Digital Forensics">
   <img src="https://img.shields.io/badge/Mobile%20Security-20B2AA?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Security">
@@ -84,7 +84,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=classifiedstudentkabir&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="classifiedstudentkabir's GitHub Stats" />
   </a>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=classifiedstudentkabir&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="20%">
+  
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=classifiedstudentkabir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kabirji Vishwakarma's GitHub Trophies" />
