@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Kabirji%20Vishwakarma&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
-<h3 align="center">An Android Developer passionate about Cybersecurity Enthusiast and Linux.</h3>
+
 </div>
 
 ---
@@ -78,13 +78,11 @@
   <img src="https://img.shields.io/badge/VMware-005B9A?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware">
 
 </div>
-
----
   
 </div>
 
 ----
-
+<img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" 
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
