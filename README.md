@@ -83,14 +83,6 @@
   
 </div>
 
----
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=classifiedstudentkabir">
-    <img src="https://komarev.com/ghpvc/?username=classifiedstudentkabir&label=Profile%20views&color=00FFFF&style=flat-square" alt="classifiedstudentkabir's profile views" />
-  </a>
-</p>
-
 ----
 
 
@@ -116,11 +108,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%22You're%20obsessed.%20I%20prefer%20focused.%22" alt="Typing introduction" />
 </p>
-
+---
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
