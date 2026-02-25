@@ -64,9 +64,8 @@
   <br>
   
 ### 🛡️ Security & Virtualization
-'''
-  <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="20%">
-'''
+
+ 
   <img src="https://img.shields.io/badge/Cyber%20Security-E70404?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cyber Security">
   <img src="https://img.shields.io/badge/Digital%20Forensics-4B0082?style=for-the-badge&logo=wireshark&logoColor=white" alt="Digital Forensics">
   <img src="https://img.shields.io/badge/Mobile%20Security-20B2AA?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Security">
@@ -78,7 +77,9 @@
 
 ----
 
-
+  <p>
+  <img src="https://i.makeagif.com/media/4-16-2021/Z0PUh5.gif" width="1000" height="270" />
+</p>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
