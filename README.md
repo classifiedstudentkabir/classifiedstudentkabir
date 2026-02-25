@@ -13,7 +13,15 @@
 - 📊 I also work with Python, Data Science in Python, R Programming, and basic .NET.
 - 🤖 I have knowledge in Prompt Engineering (ChatGPT Guide) and Application of AI.
 - 🔐 I’m learning Cyber Security: Essentials for Forensics, Digital Forensics, and Mobile Security.
+- 📫 How to reach me:
 
+  <a href="mailto:sameasmyinstagramid@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/kabirji-thedeveloper" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 ---
 
 ## 💻 Programming Languages & 🛠️ Tools I Work With
@@ -102,9 +110,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=classifiedstudentkabir&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
   </a>
 </p>
-
-## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/kabirji-thedeveloper/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:kabirjivishwakarmag@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 
 
